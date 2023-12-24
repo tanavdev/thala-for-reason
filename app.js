@@ -34,7 +34,7 @@ memebtn.addEventListener("click", () => {
 function thala(str) {
     dhoni.play()
     moyeaud.pause()
-    memeheading.innerText = `${str} is THALA for a reason.`
+    memeheading.innerText = `"${str}" is THALA for a reason.`
     memeimg.src = "ms-dhoni.webp"
 }
 
